@@ -1,0 +1,158 @@
+# Copyright (C) 2020 smtp-mailer-wp
+# This file is distributed under the same license as the smtp-mailer-wp package.
+msgid ""
+msgstr ""
+"Project-Id-Version: smtp-mailer-wp\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../includes/Menu.php:35, ../includes/Menu.php:36
+msgid "SMTP Mailer"
+msgstr ""
+
+#: ../includes/Menu.php:50
+msgid "Settings"
+msgstr ""
+
+#: ../includes/Plugin.php:100
+msgid "Plugin author"
+msgstr ""
+
+#: ../includes/Plugin.php:100
+msgid "Hey you! I'm German, the plugin author of SMTP MAILER WP."
+msgstr ""
+
+#: ../includes/Plugin.php:100
+msgid "Do you like this plugin? Please show your appreciation and rate the plugin. Help me to develop a powerful plugin that will benefit you for a long time."
+msgstr ""
+
+#: ../includes/Plugin.php:100
+msgid "Rate now!"
+msgstr ""
+
+#: ../includes/Plugin.php:100
+msgid "I have already rated."
+msgstr ""
+
+#: ../templates/settings-page.php:6
+msgid "SMTP Settings"
+msgstr ""
+
+#: ../templates/settings-page.php:7
+msgid "Test mail"
+msgstr ""
+
+#: ../templates/settings-tabs/smtp-settings.php:8
+msgid "Ssl"
+msgstr ""
+
+#: ../templates/settings-tabs/smtp-settings.php:9
+msgid "Tls"
+msgstr ""
+
+#: ../templates/settings-tabs/smtp-settings.php:40, ../templates/settings-tabs/test-send-mail.php:19
+msgid "From email address is not valid."
+msgstr ""
+
+#: ../templates/settings-tabs/smtp-settings.php:45
+msgid "Hostname is not valid."
+msgstr ""
+
+#: ../templates/settings-tabs/smtp-settings.php:50
+msgid "Port number is not valid."
+msgstr ""
+
+#: ../templates/settings-tabs/smtp-settings.php:55
+msgid "Encryption system is not valid."
+msgstr ""
+
+#: ../templates/settings-tabs/smtp-settings.php:61
+msgid "Options were saved."
+msgstr ""
+
+#: ../templates/settings-tabs/smtp-settings.php:70
+msgid "User name for SMTP authentication"
+msgstr ""
+
+#: ../templates/settings-tabs/smtp-settings.php:74
+msgid "Password for SMTP authentication"
+msgstr ""
+
+#: ../templates/settings-tabs/smtp-settings.php:78
+msgid "Hostname"
+msgstr ""
+
+#: ../templates/settings-tabs/smtp-settings.php:83
+msgid "From email addresse"
+msgstr ""
+
+#: ../templates/settings-tabs/smtp-settings.php:84
+msgid "* Leave the field blank to use the default sender email"
+msgstr ""
+
+#: ../templates/settings-tabs/smtp-settings.php:90
+msgid "From name"
+msgstr ""
+
+#: ../templates/settings-tabs/smtp-settings.php:91
+msgid "* Leave the field blank to use the default sender name"
+msgstr ""
+
+#: ../templates/settings-tabs/smtp-settings.php:96
+msgid "Port number (25, 465 or 587)"
+msgstr ""
+
+#: ../templates/settings-tabs/smtp-settings.php:100
+msgid "Encryption system"
+msgstr ""
+
+#: ../templates/settings-tabs/smtp-settings.php:114
+msgid "* If all the entered data is correct, but emails are still not sent, then try changing the port number or encryption system."
+msgstr ""
+
+#: ../templates/settings-tabs/test-send-mail.php:17
+msgid "Please configure at first your <a href='%s'>smtp settings</a>."
+msgstr ""
+
+#: ../templates/settings-tabs/test-send-mail.php:23
+msgid "Email was sent."
+msgstr ""
+
+#: ../templates/settings-tabs/test-send-mail.php:26
+msgid "Email was not sent."
+msgstr ""
+
+#: ../templates/settings-tabs/test-send-mail.php:30
+msgid "Here you can test your SMTP settings. Enter your email address and check if you receive a message."
+msgstr ""
+
+#: ../templates/settings-tabs/test-send-mail.php:31
+msgid "If the message is not sent, you will see an error message."
+msgstr ""
+
+#: ../templates/settings-tabs/test-send-mail.php:35
+msgid "Email"
+msgstr ""
+
+#: ../templates/settings-tabs/test-send-mail.php:39
+msgid "Subject"
+msgstr ""
+
+#: ../templates/settings-tabs/test-send-mail.php:40
+msgid "Test Subject!"
+msgstr ""
+
+#: ../templates/settings-tabs/test-send-mail.php:43
+msgid "Message"
+msgstr ""
+
+#: ../templates/settings-tabs/test-send-mail.php:44
+msgid "Hi, I am a test email!"
+msgstr ""
